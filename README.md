@@ -10,3 +10,6 @@ Support :
 
 command : 
 ~ php apple.php listname.txt
+
+
+password : amoskun
